@@ -1,4 +1,4 @@
-##Java Projects
+## Java Projects
 
 # Minecraft Server
 I made this project for my personal use with my friends.
